@@ -21,3 +21,15 @@ npm i -D prettier
 ````
 
 ...and add the prettier script on package.json npm scripts
+
+### Add storybook
+
+```
+npx sb init
+```
+
+### Run project and storybook
+```
+npm run start & npm run storybook
+```
+
